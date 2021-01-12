@@ -84,4 +84,4 @@ Este desafio é necessário usar **React**.
 
 ### Happy coding 
 
-![duke](./img/duke.png)
+![duke](./img/react.png)
