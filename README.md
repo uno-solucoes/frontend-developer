@@ -39,7 +39,9 @@ Você será avaliado pela sua capacidade de escrever um código simples, limpo, 
 
 ##### Formato de horários
 - É necessário tratar os campos que indicam horários. 
-- Os campos devem possuir o formato `HH:mm`. 
+- Os campos devem possuir o formato `HH:mm`.
+    - Ex. 1 - para sete horas da manhã, deve ser exibito 07:00
+    - Ex. 2 - para sete horas da noite deve ser exibido 19:00
 
 ### O que nós vamos avaliar
 
