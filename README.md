@@ -1,4 +1,4 @@
-## Desafio - Developer Backend
+## Desafio - Developer Frontend
 
 Não é esperado que todos consigam realizar esse desafio por completo pois  é destinado a todos os níveis de carreira.
 
@@ -7,19 +7,19 @@ Você será avaliado pela sua capacidade de escrever um código simples, limpo, 
 ### Instruções
 
 - **Nome do Projeto:** Controle de tarefas
-- **Objetivo do Projeto:** Criar uma API RESTful capaz de gerenciar os usuários e as tarefas destes usuários.
-- **Tecnologia:** Voce pode escolher qualquer Linguagem/Plataforma, qualquer Banco de dados Relacional ou NoSQL, pode até usar os exemplos de armazenamento dos dados em listas apresentados na seção de referência.
+- **Objetivo do Projeto:** Criar uma aplicação WEB capaz de gerenciar os usuários e as tarefas destes usuários.
+- **Tecnologia:** React
 - **Entregáveis:** Crie um repositório pessoal para esse projeto, siga as instruções abaixo e então envie um e-mail para selecao@unosolucoes.com.br informando o link do repositório.
 
 ### Desafio
 
-- A sua API deverá ser capaz de:
+- Sua aplicação deverá ser capaz de:
     - Listar todos os usuários
     - Cadastrar novos usuários
     - Listar os dados de um usuário
     - Alterar os dados um usuário
     - Excluir um usuário
-    - Listar todos os tarefas de um usuário
+    - Listar todas as tarefas de um usuário
     - Criar um tarefa de um usuário
     - Alterar um tarefa de um usuário
     - Exlcuir um tarefa de um usuário
@@ -68,26 +68,13 @@ Sim. Sinta-se a vontade para escolher o que voce conhece melhor.
 
 #### Quanto tempo eu tenho ?
 
-Esperamos que você gaste de 3 a 5 dias. Não tente "reinventar a roda".
+Esperamos que você gaste de 3 a 5 dias.  Mas se precisar de mais tempo não tem problema. Não tente "reinventar a roda".
 
-#### Qual Banco de Dados, Relacional ou NoSQL?
+### React ou angular?
 
-Você pode escolher qualquer um Não queremos te influenciar. Lembrando que usamos MySQL, mas gostamos de todos.
-
-Você pode tambem optar por armazenar os dados nas listas em memória conforme os exemplos abaixo.
-
-### Qual linguagem, Java, PHP, Ruby, Node.js?
-
-Também gostamos de todas as plataformas, e isso não vai ser um ponto de avaliação, mas nós usamos no back end a **plataforma Java**.
+Este desafio é necessário usar **React**.
 
 ### Referencias:
-
-#### Java
-
-* [http://www.semeru.com.br/blog/do-zero-ao-rest-em-5-minutos-com-springboot/](http://www.semeru.com.br/blog/do-zero-ao-rest-em-5-minutos-com-springboot/)
-* https://blog.algaworks.com/como-criar-web-services-restful-com-spring-boot/
-* [http://karanalpe.com.br/tecnologia/back-end/criando-e-consumindo-um-servico-rest-com-java/](http://karanalpe.com.br/tecnologia/back-end/criando-e-consumindo-um-servico-rest-com-java/)
-* http://www.ciceroednilson.com.br/java-criando-um-web-service-rest-com-jersey-e-jpa/
 
 #### GIT
 
