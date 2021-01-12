@@ -83,5 +83,3 @@ Este desafio é necessário usar **React**.
 * https://www.youtube.com/playlist?list=PLQCmSnNFVYnRdgxOC_ufH58NxlmM6VYd1
 
 ### Happy coding 
-
-![duke](./img/react.png)
