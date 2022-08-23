@@ -14,22 +14,10 @@ Você será avaliado pela sua capacidade de escrever um código simples, limpo, 
 ### Desafio
 
 - Sua aplicação deverá ser capaz de:
-    - Listar todos os usuários
-    - Cadastrar novos usuários
-    - Listar os dados de um usuário
-    - Alterar os dados um usuário
-    - Excluir um usuário
-    - Listar todas as tarefas de um usuário
-    - Criar um tarefa de um usuário
-    - Alterar um tarefa de um usuário
-    - Exlcuir um tarefa de um usuário
-
-- O cadastro do usuário precisa ter os seguintes campos:
-    - Foto do usuário
-    - Nome do usuário
-    - Cargo do usuário
-    - Endereço do usuário
-    - Horários de trabalho do usuário (ex.: De Segunda à Sexta das 09h as 18h).
+    - Listar todas as tarefas
+    - Criar uma tarefa
+    - Alterar um tarefa
+    - Exlcuir um tarefa
     
 - O cadastro de tarefas do usuário precisa ter os seguintes campos:
     - descricao da tarefa
@@ -54,10 +42,9 @@ Você será avaliado pela sua capacidade de escrever um código simples, limpo, 
 
 ### Dicas
 
-- Documente seu projeto em arquivos markdown ( https://pt.wikipedia.org/wiki/Markdown ) explicando a estrutura, processo de setup e requisitos.
-- Tenha sempre a usabilidade, escalabilidade e colaboração.
+- Documente minimamente seu projeto em arquivos markdown ( https://pt.wikipedia.org/wiki/Markdown ) explicando a estrutura, processo de setup e requisitos.
+- Tenha sempre em mente a usabilidade, escalabilidade e colaboração.
 - A organização das branches e os commits no repositório falam muito sobre como você organiza seu trabalho.
-- Os testes unitários são mais do que desejados.
 - O design/estrutura do código da aplicação deve ser *production ready*.
 - Tenha em mente os conceitos de *SOLID, KISS, YAGNI e DRY*.
 - Use boas práticas de programação.
@@ -72,14 +59,19 @@ Sim. Sinta-se a vontade para escolher o que voce conhece melhor.
 
 Esperamos que você gaste de 3 a 5 dias.  Mas se precisar de mais tempo não tem problema. Não tente "reinventar a roda".
 
-### React ou angular?
+### Vue ou React ou Angular?
 
-Este desafio é necessário usar **React**.
+Este desafio é necessário usar **Vue**.
 
 ### Referencias:
 
 #### GIT
 
 * https://www.youtube.com/playlist?list=PLQCmSnNFVYnRdgxOC_ufH58NxlmM6VYd1
+
+#### Vue
+
+* https://vuejs.org
+* https://www.youtube.com/playlist?list=PLQCmSnNFVYnTiC-pPY0SySbf-ZNGBwnaG
 
 ### Happy coding 
